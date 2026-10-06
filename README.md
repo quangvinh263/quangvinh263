@@ -11,7 +11,7 @@
 
 ### About Me
 
-I am a 3rd-year Software Engineering student at the **University of Information Technology (UIT, VNU-HCM)** (GPA: 8.56/10) with a strong backend foundation in scalable architectures and agile frontend prototyping skills. I am passionate about building robust systems and exploring multimodal AI solutions. I thrive on owning features end-to-end, from implementing Clean Architecture to delivering intelligent, real-time applications.
+I am a 4th-year Software Engineering student at the **University of Information Technology (UIT, VNU-HCM)** (GPA: 8.56/10) with a strong backend foundation in scalable architectures and agile frontend prototyping skills. I am passionate about building robust systems and exploring multimodal AI solutions. I thrive on owning features end-to-end, from implementing Clean Architecture to delivering intelligent, real-time applications.
 
 - **Currently focusing on:** Architecting RESTful APIs (.NET, NestJS) and implementing robust Repository & Unit of Work patterns.
 - **Researching:** Multimodal Deep Learning (PyTorch, CNN, OCR) for advertisement anomaly detection.
@@ -73,7 +73,8 @@ I am a 3rd-year Software Engineering student at the **University of Information 
 ### GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quangvinh263&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Quang Vinh's GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quangvinh263&show_icons=true&theme=dracula&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangvinh263&layout=compact&theme=dracula&hide_border=true" height="180" />
 </p>
 
 <p align="center">
